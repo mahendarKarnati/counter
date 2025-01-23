@@ -1,0 +1,30 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    text-align: center;
+    font-size: 100px;
+}
+p{
+    font-size: 75px;
+    font-weight: bold;
+    text-align: center;
+}
+button{
+    height: 50px;
+    width: 130px;
+    border: none;
+    border-radius: 15px;
+    background-color: rgb(9, 150, 153);
+    color: white;
+    margin-left: 10px;
+}
+button:hover{
+    outline: 5px ridge gold;
+    box-shadow: 5px 5px 10px 1px gray;
+
+
+}
